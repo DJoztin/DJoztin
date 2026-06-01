@@ -43,7 +43,7 @@ Web platform built for an animal shelter in Aguascalientes to increase visibilit
 
 ### 🛡️ Seguralia - Vehicle Insurance Platform *(in progress)*
 Fullstack web platform for vehicle insurance management. I contribute primarily on the frontend (Next.js), working alongside a team that handles backend services.  
-`Next.js` `FastAPI` `PostgreSQL` `Redis` `Docker`
+`Next.js` `FastAPI` `PostgreSQL` `Redis` `Docker`  
 🔗 [seguralia.com.mx](https://seguralia.com.mx)
 
 ---
