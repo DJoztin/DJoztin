@@ -1,4 +1,4 @@
-# Hi, I'm Daan 👋
+# Hi, I'm Daan
 
 **Frontend Developer** · Aguascalientes, México  
 Computer Systems Engineer focused on building clean, functional web interfaces.  
