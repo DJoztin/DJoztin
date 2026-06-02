@@ -72,5 +72,5 @@ Responsive corporate website for a hotel chain, built with Angular using compone
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/daan-jostin-carabez-garcia-5554a0268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daan-jostin-carabez-garcía-5554a0268/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:djoztin@gmail.com)
