@@ -41,10 +41,10 @@ Web platform built for an animal shelter in Aguascalientes to increase visibilit
 
 ---
 
-### 🛡️ Segulan - Vehicle Insurance Platform *(in progress)*
+### 🛡️ Seguland - Vehicle Insurance Platform *(in progress)*
 Fullstack web platform for vehicle insurance management. I contribute primarily on the frontend (Next.js), working alongside a team that handles backend services.  
 `Next.js` `FastAPI` `PostgreSQL` `Redis` `Docker`  
-🔗 [segulan.com.mx](https://segulan.com.mx)
+🔗 [seguland.com](https://seguland.com)
 
 ---
 
